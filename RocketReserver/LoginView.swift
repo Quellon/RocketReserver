@@ -22,7 +22,6 @@ struct LoginView: View {
                     .padding([.top, .leading], 20)
                     Spacer()
                 }
-                
                 Text("Login")
                     .font(.system(size: 36, weight: .semibold))
                     .padding(.top, 60)
